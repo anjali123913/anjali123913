@@ -52,18 +52,18 @@ I love turning innovative ideas into functional, user-centered web applications.
 
 ### 📊 GitHub Stats
 
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalipatel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalipatel&layout=compact&theme=radical)
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjali123913&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali123913&layout=compact&theme=radical)
 
 ---
 
 ### ⚡ GitHub Activity Graph
-![Anjali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjalipatel&theme=react-dark&hide_border=true&area=true)
+![Anjali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjali123913&theme=react-dark&hide_border=true&area=true)
 
 ---
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjalipatel&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjali123913&theme=radical&hide_border=true)
 
 ---
 
