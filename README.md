@@ -36,10 +36,12 @@ I love turning innovative ideas into functional, user-centered web applications.
 ### 🌐 Featured Projects
 | Project | Description | Live Demo |
 |----------|--------------|------------|
-| 🧠 **AI Chatbot** | Conversational bot powered by OpenAI API | [Live](https://super-flan-678061.netlify.app/) |
-| 🎨 **AI Image Generator** | Create AI images in seconds | [Live](https://melodious-melba-2f7767.netlify.app/) |
+| 🧠 **AI Chatbot** | Conversational bot powered by OpenAI API | [Live](https://sweet-kitsune-dbb520.netlify.app) |
+| 🎨 **AI Image Generator** | Create AI images in seconds | [Live](https://taupe-cactus-b4172f.netlify.app/) |
 | 🛍️ **ProductWare (SaaS)** | AI-based skin analysis & product suggestion | [Live](https://productware.in/) |
-| 🧾 **User/Admin Dashboards** | Role-based dashboards for service apps | [Live](https://scintillating-sopapillas-0bb392.netlify.app/) |
+| 🧾 **User Dashboards** | Role-based dashboards for service apps | [Live](https://super-flan-678061.netlify.app) |
+| 🧾 **Admin Dashboards** | Role-based dashboards for service apps | [Live](https://melodious-melba-2f7767.netlify.app) |
+| 🧾 **Expert Emirates** | Trading related web app | [Live](https://imaginative-kheer-d1c19a.netlify.app/) |
 | 📘 **LinkedSkill Institute** | Education SaaS with full CRUD & auth | [Live](https://linkedskillitinstitute.com/) |
 
 ---
