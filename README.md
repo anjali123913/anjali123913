@@ -71,8 +71,8 @@ I love turning innovative ideas into functional, user-centered web applications.
 📍 Lucknow, Uttar Pradesh, India  
 📧 [anjalich052@gmail.com](mailto:anjalich052@gmail.com)  
 🔗 [LinkedIn](http://www.linkedin.com/in/anjali-patel-135a41293)  
-🌐 [Portfolio](https://productware.in/)  
-🐙 [GitHub](https://github.com/anjalipatel)
+🌐 [Portfolio](https://majestic-scone-6457cd.netlify.app/)  
+🐙 [GitHub]([https://github.com/anjali123913])
 
 ---
 
